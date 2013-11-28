@@ -10,7 +10,7 @@ API-Rest de la plataforma de cuayolo.
 | HTTP METHOD | POST            | GET       | PUT         | DELETE |
 | ----------- | --------------- | --------- | ----------- | ------ |
 | CRUD OP     | CREATE          | READ      | UPDATE      | DELETE |
-| /users       | Create new dogs | List user |  Data update | Delete all |
+| /users       | Create new user | List user |  Data update | Delete all |
 | /users/1234  | Error           | Show 1234   | If exists, update 1234; If not, error | Delete 1234 |
 
 (Ejemplo de Web API Design)
